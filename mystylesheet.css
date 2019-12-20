@@ -1,0 +1,26 @@
+@media only screen and (max-device-width: 1366px) {
+    .parallax1 {
+      background-attachment: scroll;
+    }
+    .parallax2 {
+      background-attachment: scroll;
+    }
+    .parallax3 {
+      background-attachment: scroll;
+    }
+  }
+  html {
+  		
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  height: 100%;
+
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+a:hover{
+    color:red;
+}
